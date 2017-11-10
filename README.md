@@ -1,2 +1,7 @@
 # ravada-slides
-Ravada parade
+
+Clone and:
+
+$ npm install
+
+$ npm start
